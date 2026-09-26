@@ -5,7 +5,7 @@ Backend Software Engineer specializing in **Go (Golang)**, microservices, and da
 ---
 
 ### 💻 Core Tech Stack
-- **Languages:** Go, SQL, Python
+- **Languages:** Go, SQL,
 - **Backend & Web:** Gin, REST APIs, Microservices Architecture
 - **Databases:** PostgreSQL (pgx), Redis
 - **Tools & OS:** Git, GitHub, VS Code, Linux (Ubuntu)
