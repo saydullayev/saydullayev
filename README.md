@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Saydullayev 👋
 
-<!--
-**saydullayev/saydullayev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Software Engineer specializing in **Go (Golang)**, microservices, and database design.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Core Tech Stack
+- **Languages:** Go, SQL, Python
+- **Backend & Web:** Gin, REST APIs, Microservices Architecture
+- **Databases:** PostgreSQL (pgx), Redis
+- **Tools & OS:** Git, GitHub, VS Code, Linux (Ubuntu)
+
+---
+
+### 🚀 What I'm Working On & Learning
+- ⚙️ **Backend Systems:** Building scalable Go microservices and integrating custom PostgreSQL persistence layers.
+- 📐 **System Design:** Studying architecture patterns and distributed systems using my [Awesome Dev Resources](https://github.com/saydullayev/awesome-dev-resources) hub.
+- 💡 **Problem Solving:** Solving algorithmic challenges to optimize backend logic and performance.
+
+---
+
+### 📚 Featured Repository
+- ⭐️ **[Awesome Dev Resources](https://github.com/saydullayev/awesome-dev-resources)** — My curated collection of software engineering resources, system design guides, and API documentation.
+
+---
+
+### 📫 Connect with Me
+- **GitHub:** [@saydullayev](https://github.com/saydullayev)
