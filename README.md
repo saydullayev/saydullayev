@@ -1,4 +1,4 @@
-# Hi there, I'm Saydullayev 👋
+# Hi there, I'm Og'abek 👋
 
 Backend Software Engineer specializing in **Go (Golang)**, microservices, and database design.
 
